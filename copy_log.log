@@ -1,0 +1,9 @@
+2024-06-20 00:57:29 - ERROR - File not found: file1.csv
+2024-06-20 00:57:29 - INFO - Successfully copied: input.csv
+2024-06-20 00:57:29 - INFO - Successfully copied: bikes.csv
+2024-06-20 00:57:34 - ERROR - File not found: file1.csv
+2024-06-20 00:57:34 - INFO - Successfully copied: input.csv
+2024-06-20 00:57:34 - INFO - Successfully copied: bikes.csv
+2024-06-20 00:57:35 - ERROR - File not found: file1.csv
+2024-06-20 00:57:35 - INFO - Successfully copied: input.csv
+2024-06-20 00:57:35 - INFO - Successfully copied: bikes.csv
